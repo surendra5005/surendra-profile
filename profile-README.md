@@ -1,4 +1,4 @@
-# Hi there, I'm Surendra 👋
+# Hi there, I'm Surendra
 
 ### Chartered Accountant | Oracle EPM Cloud Specialist | Finance Automation Enthusiast
 
@@ -8,7 +8,7 @@ This GitHub is where I share reusable scripts, implementation playbooks, and aut
 
 ---
 
-## 🧰 Tech & Tools I Work With
+## Tech & Tools I Work With
 
 **Oracle EPM Cloud**
 `EPBCS` `PBCS` `FCCS` `EPCM` `ARCS` `EPRCS` `Narrative Reporting`
@@ -24,7 +24,7 @@ This GitHub is where I share reusable scripts, implementation playbooks, and aut
 
 ---
 
-## 📌 What You'll Find Here
+## What You'll Find Here
 
 - **EPM Automation Scripts** — EPM Automate batch files, Groovy rules, and Python wrappers for routine EPM tasks
 - **Implementation Playbooks** — Markdown guides covering EPBCS / EPCM configuration, migration, and best practices
@@ -33,7 +33,7 @@ This GitHub is where I share reusable scripts, implementation playbooks, and aut
 
 ---
 
-## 🌱 Currently Learning / Exploring
+## Currently Learning / Exploring
 
 - Oracle EPM Cloud REST APIs
 - Python for financial data engineering
